@@ -2,3 +2,7 @@ theme: jekyll-theme-slate
 
 plugins:
   - jekyll-redirect-from
+
+title: Temporary redirect to Styles
+redirect_to:
+  - /Styles/
